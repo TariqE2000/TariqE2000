@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarigelamin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarigelamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarigelamin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarig-elamin)
 [![Email](https://img.shields.io/badge/Gmail-tariq.baha558%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariq.baha558@gmail.com)
 
 </div>
